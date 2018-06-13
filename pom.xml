@@ -8,5 +8,9 @@
     <artifactId>iot-server-cloud</artifactId>
     <version>1.0</version>
 
-
+    <modules>
+        <module>iot-config-service</module>
+        <module>iot-eureka-client</module>
+        <module>iot-center-service</module>
+    </modules>
 </project>

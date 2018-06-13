@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: iot-eureka-client
+  cloud:
+    config:
+      uri: http://localhost:8088
